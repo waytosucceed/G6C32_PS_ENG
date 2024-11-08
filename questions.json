@@ -1,0 +1,310 @@
+{
+  "heading": "Sentence Types",
+  "topics": [
+    {
+      "heading": "Types of Sentences",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "What kind of sentence is: \"I love chocolate ice cream!\"",
+          "options": [
+            "a) Declarative",
+            "b) Interrogative",
+            "c) Imperative",
+            "d) Exclamatory"
+          ],
+          "answer": 3,
+          "explanation": "While this sentence could be considered declarative in structure, the exclamation mark at the end makes it an exclamatory sentence. Exclamatory sentences express strong emotions or sudden feelings. In this case, the sentence expresses enthusiasm about chocolate ice cream."
+        },
+        {
+          "questionNo": 2,
+          "question": "Identify the sentence type: \"Do you prefer tea or coffee?\"",
+          "options": [
+            "a) Declarative",
+            "b) Imperative",
+            "c) Exclamatory",
+            "d) Interrogative"
+          ],
+          "answer": 3,
+          "explanation": "This is an interrogative sentence because it asks a question. Interrogative sentences always end with a question mark and are used to seek information or preferences. In this case, the sentence is asking about a beverage preference."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which type of sentence is this: \"The concert was amazing.\"",
+          "options": [
+            "a) Exclamatory",
+            "b) Interrogative",
+            "c) Declarative",
+            "d) Imperative"
+          ],
+          "answer": 2,
+          "explanation": "This is a declarative sentence because it states an opinion. Declarative sentences provide information or express opinions, and they end with a full stop. Here, the sentence is expressing an opinion about the quality of the concert."
+        },
+        {
+          "questionNo": 4,
+          "question": "What kind of sentence is it? \"Don't forget to bring your umbrella!\"",
+          "options": [
+            "a) Declarative",
+            "b) Interrogative",
+            "c) Imperative",
+            "d) Exclamatory"
+          ],
+          "answer": 2,
+          "explanation": "This is an imperative sentence because it gives a command or makes a request. Even though it ends with an exclamation mark, which adds emphasis, the primary function is to give a command. Imperative sentences often start with a verb, in this case, the negative command \"Don't forget.\""
+        },
+        {
+          "questionNo": 5,
+          "question": "Identify the sentence type: \"How beautiful the flowers are!\"",
+          "options": [
+            "a) Interrogative",
+            "b) Declarative",
+            "c) Exclamatory",
+            "d) Imperative"
+          ],
+          "answer": 2,
+          "explanation": "This is an exclamatory sentence because it expresses strong emotion or sudden feeling. Exclamatory sentences end with an exclamation mark. In this case, the sentence expresses admiration for the beauty of the flowers."
+        },
+        {
+          "questionNo": 6,
+          "question": "Which type of sentence is this: \"The library closes at 9 PM.\"",
+          "options": [
+            "a) Imperative",
+            "b) Interrogative",
+            "c) Exclamatory",
+            "d) Declarative"
+          ],
+          "answer": 3,
+          "explanation": "This is a declarative sentence because it states a fact. Declarative sentences provide information or express opinions, and they end with a full stop. Here, the sentence provides information about the library's closing time."
+        },
+        {
+          "questionNo": 7,
+          "question": "What kind of sentence is: \"Why is the sky blue?\"",
+          "options": [
+            "a) Declarative",
+            "b) Imperative",
+            "c) Interrogative",
+            "d) Exclamatory"
+          ],
+          "answer": 2,
+          "explanation": "This is an interrogative sentence because it asks a question. Interrogative sentences always end with a question mark and are used to seek information. In this case, the sentence is asking about the reason for the sky's colour."
+        },
+        {
+          "questionNo": 8,
+          "question": "Identify the sentence type: \"Please be quiet in the library.\"",
+          "options": [
+            "a) Exclamatory",
+            "b) Declarative",
+            "c) Interrogative",
+            "d) Imperative"
+          ],
+          "answer": 3,
+          "explanation": "This is an imperative sentence because it gives a command or makes a request. Imperative sentences often start with a verb and end with a full stop. Here, \"Please be quiet\" is a polite command appropriate for a library setting."
+        },
+        {
+          "questionNo": 9,
+          "question": "Which type of sentence is this: \"What a surprise!\"",
+          "options": [
+            "a) Exclamatory",
+            "b) Imperative",
+            "c) Interrogative",
+            "d) Declarative"
+          ],
+          "answer": 0,
+          "explanation": "This is an exclamatory sentence because it expresses strong emotion or sudden feeling. Exclamatory sentences end with an exclamation mark. In this case, the sentence expresses surprise or astonishment."
+        },
+        {
+          "questionNo": 10,
+          "question": "What kind of sentence is: \"The capital of France is Paris.\"",
+          "options": [
+            "a) Interrogative",
+            "b) Imperative",
+            "c) Exclamatory",
+            "d) Declarative"
+          ],
+          "answer": 3,
+          "explanation": "This is a declarative sentence because it states a fact. Declarative sentences provide information or express opinions, and they end with a full stop. Here, the sentence states a geographical fact about the capital of France."
+        },
+        {
+          "questionNo": 11,
+          "question": "Identify the sentence type: \"Have you ever been to New York?\"",
+          "options": [
+            "a) Declarative",
+            "b) Imperative",
+            "c) Interrogative",
+            "d) Exclamatory"
+          ],
+          "answer": 2,
+          "explanation": "This is an interrogative sentence because it asks a question. Interrogative sentences always end with a question mark and are used to seek information. In this case, the sentence is asking about someone's travel experience."
+        },
+        {
+          "questionNo": 12,
+          "question": "Which type of sentence is this: \"Stop talking and listen carefully.\"",
+          "options": [
+            "a) Exclamatory",
+            "b) Imperative",
+            "c) Declarative",
+            "d) Interrogative"
+          ],
+          "answer": 1,
+          "explanation": "This is an imperative sentence because it gives a command. Imperative sentences often start with a verb and typically end with a full stop. Here, \"Stop talking\" and \"listen carefully\" are direct commands."
+        },
+        {
+          "questionNo": 13,
+          "question": "What kind of sentence is: \"I can't wait for the weekend!\"",
+          "options": [
+            "a) Declarative",
+            "b) Interrogative",
+            "c) Imperative",
+            "d) Exclamatory"
+          ],
+          "answer": 3,
+          "explanation": "This is an exclamatory sentence because it expresses strong emotion or enthusiasm. Exclamatory sentences end with an exclamation mark. In this case, the sentence expresses excitement about the upcoming weekend."
+        },
+        {
+          "questionNo": 14,
+          "question": "Identify the sentence type: \"The dog barks at the mailman every day.\"",
+          "options": [
+            "a) Declarative",
+            "b) Imperative",
+            "c) Exclamatory",
+            "d) Interrogative"
+          ],
+          "answer": 0,
+          "explanation": "This is a declarative sentence because it states a fact or observation. Declarative sentences provide information or express opinions, and they end with a full stop. Here, the sentence describes a regular occurrence involving the dog and the mailman."
+        },
+        {
+          "questionNo": 15,
+          "question": "Which type of sentence is this: \"What is your favourite colour?\"",
+          "options": [
+            "a) Declarative",
+            "b) Imperative",
+            "c) Exclamatory",
+            "d) Interrogative"
+          ],
+          "answer": 3,
+          "explanation": "This is an interrogative sentence because it asks a question. Interrogative sentences always end with a question mark and are used to seek information. In this case, the sentence is asking about someone's colour preference."
+        },
+        {
+          "questionNo": 16,
+          "question": "What kind of sentence is: \"Remember to brush your teeth before bed.\"",
+          "options": [
+            "a) Interrogative",
+            "b) Declarative",
+            "c) Imperative",
+            "d) Exclamatory"
+          ],
+          "answer": 2,
+          "explanation": "This is an imperative sentence because it gives a command or makes a request. Imperative sentences often start with a verb and typically end with a full stop. Here, \"Remember to brush your teeth\" is a command related to a daily routine."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which of the following is an imperative sentence?",
+          "options": [
+            "a) The dog chased the cat up the tree.",
+            "b) Brush your teeth.",
+            "c) How tall is that building?",
+            "d) What an amazing performance that was!"
+          ],
+          "answer": 1,
+          "explanation": "This is an imperative sentence because it gives a command or makes a request. Imperative sentences often start with a verb and typically end with a full stop. Here, \"Brush your teeth\" is a command related to a daily routine."
+        },
+        {
+          "questionNo": 18,
+          "question": "Which of the following is an exclamatory sentence?",
+          "options": [
+            "a) The train arrives at 3 PM.",
+            "b) Do you prefer coffee or tea?",
+            "c) Close the window, please.",
+            "d) What a surprise!"
+          ],
+          "answer": 3,
+          "explanation": "This is an exclamatory sentence because it expresses strong emotion or sudden feeling. Exclamatory sentences end with an exclamation mark. In this case, the sentence expresses surprise or astonishment."
+        },
+        {
+          "questionNo": 19,
+          "question": "Which of the following is a declarative sentence?",
+          "options": [
+            "a) How many planets are in our solar system?",
+            "b) Watch out for that puddle!",
+            "c) The Eiffel Tower is in Paris.",
+            "d) Please pass the salt."
+          ],
+          "answer": 2,
+          "explanation": "This sentence is declarative because it states a fact. Declarative sentences provide information or express opinions, and they end with a full stop. Here, the sentence is stating a geographical fact about the location of the Eiffel Tower."
+        },
+        {
+          "questionNo": 20,
+          "question": "Which of the following is an interrogative sentence?",
+          "options": [
+            "a) The weather is nice today.",
+            "b) Don't forget to lock the door.",
+            "c) What a delicious meal!",
+            "d) When does the party start?"
+          ],
+          "answer": 3,
+          "explanation": "This is an interrogative sentence because it asks a question. Interrogative sentences always end with a question mark and are used to seek information. In this case, the sentence is asking about the start time of the party."
+        },
+        {
+          "questionNo": 21,
+          "question": "Which of the following is an imperative sentence?",
+          "options": [
+            "a) The birds are singing in the trees.",
+            "b) Turn left at the next intersection.",
+            "c) How fast can a cheetah run?",
+            "d) What an exciting game that was!"
+          ],
+          "answer": 1,
+          "explanation": "This is an imperative sentence because it gives a command or instruction. Imperative sentences often start with a verb and end with a full stop. Here, \"Turn left\" is a direct instruction for navigation."
+        },
+        {
+          "questionNo": 22,
+          "question": "Which of the following is an exclamatory sentence?",
+          "options": [
+            "a) The sun sets in the west.",
+            "b) Please be quiet during the movie.",
+            "c) Wow, that roller coaster was amazing!",
+            "d) Do you know how to swim?"
+          ],
+          "answer": 2,
+          "explanation": "This is an exclamatory sentence because it expresses strong emotion or enthusiasm. Exclamatory sentences end with an exclamation mark. In this case, the sentence expresses excitement or amazement about a roller coaster ride."
+        },
+        {
+          "questionNo": 23,
+          "question": "Which of the following is a declarative sentence?",
+          "options": [
+            "a) How many cookies did you eat?",
+            "b) Water boils at 100 degrees Celsius.",
+            "c) Look both ways before crossing the street.",
+            "d) What a beautiful rainbow!"
+          ],
+          "answer": 1,
+          "explanation": "This sentence is declarative because it states a scientific fact. Declarative sentences provide information or express opinions, and they end with a full stop. Here, the sentence is stating a fact about the boiling point of water."
+        },
+        {
+          "questionNo": 24,
+          "question": "Which of the following is an interrogative sentence?",
+          "options": [
+            "a) The concert was amazing.",
+            "b) Please turn off your cell phones.",
+            "c) What a beautiful day it is!",
+            "d) Who is your favourite author?"
+          ],
+          "answer": 3,
+          "explanation": "This is an interrogative sentence because it asks a question. Interrogative sentences always end with a question mark and are used to seek information. In this case, the sentence is asking about someone's preferred author."
+        },
+        {
+          "questionNo": 25,
+          "question": "Which of the following is an imperative sentence?",
+          "options": [
+            "a) The movie starts in 10 minutes.",
+            "b) How tall is that building?",
+            "c) Fasten your seatbelt before takeoff.",
+            "d) What an incredible view from up here!"
+          ],
+          "answer": 2,
+          "explanation": "This is an imperative sentence because it gives a command or instruction. Imperative sentences often start with a verb and typically end with a full stop. Here, \"Fasten your seatbelt\" is a direct instruction for safety."
+        }
+      ]
+    }
+  ]
+}
